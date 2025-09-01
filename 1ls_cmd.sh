@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Script: enhanced_ls.sh
+# Script:ls_cmd.sh
 # Descripción: Lista archivos con opciones de ordenamiento y filtrado
 # Autor: [esteban muñoz]
 # Fecha: $(2025-08-29)
